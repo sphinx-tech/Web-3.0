@@ -1,5 +1,7 @@
 # Web-3.0
 
+
+# Assignment 1
 BAsic Python code to find nounce such that given an imput string as block header the SHA256("Header"+"nounce") is less than a prespecified target hash.
 
 
