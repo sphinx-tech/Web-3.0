@@ -2,7 +2,7 @@
 
 
 # Assignment 1
-Basic Python code (using hashlib crypto library) to find nounce such that given an imput string as block header the SHA256("Header"+"nounce") is less than a prespecified target hash.
+Basic Python code (using hashlib crypto library) to find nounce such that given an input string as block header the SHA256("Header"+"nounce") is less than a prespecified target hash.
 
 
 As the hex() function in python truncates the zero padding when converting integer into hexadecimal fomat;
