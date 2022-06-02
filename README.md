@@ -8,4 +8,4 @@ we have implemented a custom function  padded_hex() referenced from a stackexcha
 1. the integer to convert to hexadecimal
 2. the legnth of characters to denote the hexadecimal number with (extra MSB are padded with zeros)
 
-Finally, the value of noounce alongwith execution time is displayed
+Finally, the value of nounce alongwith the total execution time is displayed
